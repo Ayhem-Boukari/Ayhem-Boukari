@@ -40,42 +40,6 @@ I love transforming ideas into **scalable, intelligent systems** — from LLM-po
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
----
-
-## 🏗️ Featured Projects
-
-### 🔥 **Social Spark — AI Trend Analysis & Content Generation**
-
-*LLaMA • Transformers • FastAPI*
-Analyzes social media trends using LLMs and generates targeted content automatically.
-
-### 🎓 **IHEC Chatbot — Bilingual AI Assistant**
-
-*Node.js • Sentence-BERT • NLP*
-Semantic-search chatbot answering student FAQs instantly.
-
-### 🌍 **IncidentVision — Natural Disaster Classification**
-
-*PyTorch • ResNet-18 • Next.js*
-90% accuracy on natural-disaster image classification.
-
-### 🏛️ **ClubFLOW — Full-Stack Club Management**
-
-*React • Spring Boot • MySQL*
-Streamlines student club operations through a modern web interface.
-
----
-
-## 💼 Experience
-
-### 🇬🇧 **DataUp Ltd — London (2nd-Year Internship)**
-
-* Built a full end-to-end pipeline for **Arabic document layout analysis**
-* Trained a **YOLOv8** model and deployed a high-performance **FastAPI** backend
-
-### 🇹🇳 **CNTE (1st-Year Internship)**
-
-* Built a complete **inventory management system** using PHP & MySQL
 
 ---
 
@@ -88,29 +52,15 @@ Streamlines student club operations through a modern web interface.
 
 ---
 
-## 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=AyhemBoukari&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyhemBoukari&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 📫 Let’s Connect
 
 <p>
 <a href="mailto:ayhem.boukari@enicar.ucar.tn"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/AyhemBoukari"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ayhem-boukari-3889b528b/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
 
-If you want, I can:
-✨ Add animated banners
-✨ Add a visitors counter
-✨ Add trophies
-✨ Add custom badges
-
-Just tell me!
+“Between what we imagine and what we build lies the quiet place where our real potential awakens.”
