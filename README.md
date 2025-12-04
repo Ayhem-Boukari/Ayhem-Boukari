@@ -1,5 +1,3 @@
-Here is a **ready-to-copy**, fully designed, modern, icon-rich `README.md`** perfect for your GitHub profile.
-Just copy and paste it into your `README.md` file — everything will work.
 
 ---
 
