@@ -14,7 +14,7 @@
 I'm a computer science engineer passionate about **AI**, **LLMs**, **computer vision**, and **web development**.
 I love transforming ideas into **scalable, intelligent systems** — from LLM-powered apps to CV models and full-stack platforms.
 
-💡 *“Innovation happens when curiosity meets consistency.”*
+💡 *“We do not write code to control machines — we write it to understand the world, and shape it.”*
 
 ---
 
@@ -56,7 +56,9 @@ I love transforming ideas into **scalable, intelligent systems** — from LLM-po
 
 <p>
 <a href="mailto:ayhem.boukari@enicar.ucar.tn"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ayhem-boukari-3889b528b/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/ayhem-boukari-3889b528b/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
