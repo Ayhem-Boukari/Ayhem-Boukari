@@ -46,6 +46,7 @@ I love transforming ideas into **scalable, intelligent systems** — from LLM-po
 * 🥉 **3rd place — Deep Learning IndabaX Tunisia 2025**
 * 🏆 **Finalist — Pillars of the Future Hackathon (INSAT)**
 * 🥇 **IEEEXtreme 2024:** 1st @ ENICarthage — 46/1078 nationwide
+* 🥇 **IEEEXtreme 2025:** 1st @ ENICarthage — 27/2102 nationwide
 * 🌎 **Team Up for Climate Challenge — Rank 2nd (Egis Global)**
 
 ---
